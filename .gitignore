@@ -1,0 +1,8 @@
+# Eval artifacts from skill-creator runs
+dalton-michael-workspace/
+
+# Logs
+transcripts/fetch.log
+
+# macOS
+.DS_Store
