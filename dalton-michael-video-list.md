@@ -160,6 +160,16 @@ YouTube: [@daltonplusmichael](https://youtube.com/@daltonplusmichael)
 | 24 | How To Get Unique AI Startup Ideas | Mar 16, 2026 |
 | 25 | How Great Founders Approach Sales | Feb 2, 2026 |
 | 26 | Dalton + Michael Return To YouTube | Sep 2, 2025 |
+| 18 | Should You Pivot Your Startup? | Sep 14, 2026 |
+| 19 | Should You Keep Working on Your Startup? | Sep 7, 2026 |
+| 20 | How To Build A Startup Brand | Aug 31, 2026 |
+| 21 | How Startup Founders Actually Get Rich (Quick?) | Jun 15, 2026 |
+| 22 | How Startups Close Million Dollar Deals | Jun 1, 2026 |
+| 23 | How to Build an MVP in the AI Coding Era | May 18, 2026 |
+| 24 | A Founders Guide To Selling Your Company | May 7, 2026 |
+| 25 | How To Get Unique AI Startup Ideas | Mar 16, 2026 |
+| 26 | How Great Founders Approach Sales | Feb 2, 2026 |
+| 27 | Dalton + Michael Return To YouTube | Sep 2, 2025 |
 Note: May have a few earlier episodes not captured from Spotify pagination.
 
 ## C. Dalton Caldwell -- Solo YC Videos
