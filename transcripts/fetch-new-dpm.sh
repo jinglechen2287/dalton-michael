@@ -21,8 +21,10 @@ yt-dlp --cookies-from-browser chrome --flat-playlist --print "%(id)s" \
 TOTAL=$(wc -l < "$DIR/dpm_latest_ids.txt" | tr -d ' ')
 echo "Channel has $TOTAL videos"
 
-# Build set of already-downloaded video IDs from clean/ filenames
-EXISTING_IDS=$(ls "$CLEAN_DIR" 2>/dev/null | sed 's/[_\t].*//' | sort -u)
+# Build set of already-downloaded video IDs from clean/ filenames.
+# YouTube IDs are exactly 11 chars of [A-Za-z0-9_-]; take that prefix rather than
+# splitting on a separator (BSD sed treats \t in a bracket as literal '\' and 't').
+EXISTING_IDS=$(ls "$CLEAN_DIR" 2>/dev/null | sed -E 's/^([A-Za-z0-9_-]{11}).*/\1/' | sort -u)
 
 # Find new videos
 NEW=0
@@ -91,14 +93,18 @@ if [ "$NEW" -gt 0 ] && [ -f "$VIDEO_LIST" ]; then
   echo ""
   echo "=== Updating video list ==="
 
-  # Get current highest episode number in section B
-  LAST_NUM=$(grep -E '^\| [0-9]+ \|' "$VIDEO_LIST" | tail -1 | awk -F'|' '{print $2}' | tr -d ' ')
+  # Get current highest episode number in section B only (the file has other tables after it)
+  LAST_NUM=$(sed -n '/^## B\. "Dalton + Michael"/,/^Note: May have/p' "$VIDEO_LIST" \
+    | grep -E '^\| [0-9]+ \|' | tail -1 | awk -F'|' '{print $2}' | tr -d ' ')
+  LAST_NUM=${LAST_NUM:-0}
 
-  # Re-read the latest list to get titles and dates for new videos
+  # Channel listing is newest-first; section B is chronological, so walk it in reverse.
+  # Only list videos whose transcript actually landed in clean/.
   while read -r vid; do
     if echo "$EXISTING_IDS" | grep -q "^${vid}$"; then
       continue
     fi
+    ls "$CLEAN_DIR"/"${vid}"* >/dev/null 2>&1 || continue
 
     LAST_NUM=$((LAST_NUM + 1))
     info=$(yt-dlp --cookies-from-browser chrome --print "%(title)s" --print "%(upload_date)s" \
@@ -119,7 +125,7 @@ if [ "$NEW" -gt 0 ] && [ -f "$VIDEO_LIST" ]; then
 " "$VIDEO_LIST"
 
     echo "  Added to list: $vtitle ($fdate)"
-  done < "$DIR/dpm_latest_ids.txt"
+  done < <(tail -r "$DIR/dpm_latest_ids.txt")
 
   # Update episode count in section B header
   sed -i '' "s/## B\. \"Dalton + Michael\" (Standard Capital era) -- [0-9]*+ episodes/## B. \"Dalton + Michael\" (Standard Capital era) -- ${LAST_NUM}+ episodes/" "$VIDEO_LIST"

@@ -50,7 +50,7 @@
 
 Note: Nov 16, 2024 dates are likely the batch-upload date to the standalone podcast feed; episodes originally aired earlier on the YC Startup Podcast.
 
-## B. "Dalton + Michael" (Standard Capital era) -- 18 episodes
+## B. "Dalton + Michael" (Standard Capital era) -- 34 episodes
 
 YouTube: [@daltonplusmichael](https://youtube.com/@daltonplusmichael)
 
@@ -74,102 +74,23 @@ YouTube: [@daltonplusmichael](https://youtube.com/@daltonplusmichael)
 | 16 | Zombie Startups: Should They Shut Down or Keep Going? | Mar 30, 2026 |
 | 17 | How Great Founders Navigate Lawsuits & Regulation | Apr 13, 2026 |
 | 18 | Startup Founder Ethics | Apr 21, 2026 |
-
-| 18 | How To Get Unique AI Startup Ideas | Mar 16, 2026 |
-| 19 | How Great Founders Approach Sales | Feb 2, 2026 |
-| 20 | Dalton + Michael Return To YouTube | Sep 2, 2025 |
-| 18 | 5 Years of Dalton + Michael: What We've Learned Making Videos | Apr 27, 2026 |
-| 19 | How To Get Unique AI Startup Ideas | Mar 16, 2026 |
-| 20 | How Great Founders Approach Sales | Feb 2, 2026 |
-| 21 | Dalton + Michael Return To YouTube | Sep 2, 2025 |
-| 18 | A Founders Guide To Selling Your Company | May 7, 2026 |
-| 19 | How To Get Unique AI Startup Ideas | Mar 16, 2026 |
-| 20 | How Great Founders Approach Sales | Feb 2, 2026 |
-| 21 | Dalton + Michael Return To YouTube | Sep 2, 2025 |
-| 18 | A Founders Guide To Selling Your Company | May 7, 2026 |
-| 19 | How To Get Unique AI Startup Ideas | Mar 16, 2026 |
-| 20 | How Great Founders Approach Sales | Feb 2, 2026 |
-| 21 | Dalton + Michael Return To YouTube | Sep 2, 2025 |
-| 18 | How Startups Close Million Dollar Deals | Jun 1, 2026 |
-| 19 | How to Build an MVP in the AI Coding Era | May 18, 2026 |
+| 19 | 5 Years of Dalton + Michael: What We've Learned Making Videos | Apr 27, 2026 |
 | 20 | A Founders Guide To Selling Your Company | May 7, 2026 |
-| 21 | How To Get Unique AI Startup Ideas | Mar 16, 2026 |
-| 22 | How Great Founders Approach Sales | Feb 2, 2026 |
-| 23 | Dalton + Michael Return To YouTube | Sep 2, 2025 |
-| 18 | How To Build A Successful Career In Tech: Where To Join, When To Leave | Jun 29, 2026 |
-| 19 | How Startup Founders Actually Get Rich (Quick?) | Jun 15, 2026 |
-| 20 | How Startups Close Million Dollar Deals | Jun 1, 2026 |
 | 21 | How to Build an MVP in the AI Coding Era | May 18, 2026 |
-| 22 | A Founders Guide To Selling Your Company | May 7, 2026 |
-| 23 | How To Get Unique AI Startup Ideas | Mar 16, 2026 |
-| 24 | How Great Founders Approach Sales | Feb 2, 2026 |
-| 25 | Dalton + Michael Return To YouTube | Sep 2, 2025 |
-| 18 | How Startup Founders Actually Get Rich (Quick?) | Jun 15, 2026 |
-| 19 | How Startups Close Million Dollar Deals | Jun 1, 2026 |
-| 20 | How to Build an MVP in the AI Coding Era | May 18, 2026 |
-| 21 | A Founders Guide To Selling Your Company | May 7, 2026 |
-| 22 | How To Get Unique AI Startup Ideas | Mar 16, 2026 |
-| 23 | How Great Founders Approach Sales | Feb 2, 2026 |
-| 24 | Dalton + Michael Return To YouTube | Sep 2, 2025 |
-| 18 | Cofounder Relationships | Jul 13, 2026 |
-| 19 | How Startup Founders Actually Get Rich (Quick?) | Jun 15, 2026 |
-| 20 | How Startups Close Million Dollar Deals | Jun 1, 2026 |
-| 21 | How to Build an MVP in the AI Coding Era | May 18, 2026 |
-| 22 | A Founders Guide To Selling Your Company | May 7, 2026 |
-| 23 | How To Get Unique AI Startup Ideas | Mar 16, 2026 |
-| 24 | How Great Founders Approach Sales | Feb 2, 2026 |
-| 25 | Dalton + Michael Return To YouTube | Sep 2, 2025 |
-| 18 | Problems Money Can't Solve | Jul 22, 2026 |
-| 19 | How Startup Founders Actually Get Rich (Quick?) | Jun 15, 2026 |
-| 20 | How Startups Close Million Dollar Deals | Jun 1, 2026 |
-| 21 | How to Build an MVP in the AI Coding Era | May 18, 2026 |
-| 22 | A Founders Guide To Selling Your Company | May 7, 2026 |
-| 23 | How To Get Unique AI Startup Ideas | Mar 16, 2026 |
-| 24 | How Great Founders Approach Sales | Feb 2, 2026 |
-| 25 | Dalton + Michael Return To YouTube | Sep 2, 2025 |
-| 18 | Why Doomers Are Wrong About AI | Jul 29, 2026 |
-| 19 | How Startup Founders Actually Get Rich (Quick?) | Jun 15, 2026 |
-| 20 | How Startups Close Million Dollar Deals | Jun 1, 2026 |
-| 21 | How to Build an MVP in the AI Coding Era | May 18, 2026 |
-| 22 | A Founders Guide To Selling Your Company | May 7, 2026 |
-| 23 | How To Get Unique AI Startup Ideas | Mar 16, 2026 |
-| 24 | How Great Founders Approach Sales | Feb 2, 2026 |
-| 25 | Dalton + Michael Return To YouTube | Sep 2, 2025 |
-| 18 | The Secret Killer of Startups | Aug 5, 2026 |
-| 19 | How Startup Founders Actually Get Rich (Quick?) | Jun 15, 2026 |
-| 20 | How Startups Close Million Dollar Deals | Jun 1, 2026 |
-| 21 | How to Build an MVP in the AI Coding Era | May 18, 2026 |
-| 22 | A Founders Guide To Selling Your Company | May 7, 2026 |
-| 23 | How To Get Unique AI Startup Ideas | Mar 16, 2026 |
-| 24 | How Great Founders Approach Sales | Feb 2, 2026 |
-| 25 | Dalton + Michael Return To YouTube | Sep 2, 2025 |
-| 18 | How to Spot a Terrorist in Your Startup | Aug 12, 2026 |
-| 19 | How Startup Founders Actually Get Rich (Quick?) | Jun 15, 2026 |
-| 20 | How Startups Close Million Dollar Deals | Jun 1, 2026 |
-| 21 | How to Build an MVP in the AI Coding Era | May 18, 2026 |
-| 22 | A Founders Guide To Selling Your Company | May 7, 2026 |
-| 23 | How To Get Unique AI Startup Ideas | Mar 16, 2026 |
-| 24 | How Great Founders Approach Sales | Feb 2, 2026 |
-| 25 | Dalton + Michael Return To YouTube | Sep 2, 2025 |
-| 18 | Startup Problems Growth Doesn't Solve | Aug 24, 2026 |
-| 19 | How to Find Consumer Startup Ideas | Aug 18, 2026 |
-| 20 | How Startup Founders Actually Get Rich (Quick?) | Jun 15, 2026 |
-| 21 | How Startups Close Million Dollar Deals | Jun 1, 2026 |
-| 22 | How to Build an MVP in the AI Coding Era | May 18, 2026 |
-| 23 | A Founders Guide To Selling Your Company | May 7, 2026 |
-| 24 | How To Get Unique AI Startup Ideas | Mar 16, 2026 |
-| 25 | How Great Founders Approach Sales | Feb 2, 2026 |
-| 26 | Dalton + Michael Return To YouTube | Sep 2, 2025 |
-| 18 | Should You Pivot Your Startup? | Sep 14, 2026 |
-| 19 | Should You Keep Working on Your Startup? | Sep 7, 2026 |
-| 20 | How To Build A Startup Brand | Aug 31, 2026 |
-| 21 | How Startup Founders Actually Get Rich (Quick?) | Jun 15, 2026 |
 | 22 | How Startups Close Million Dollar Deals | Jun 1, 2026 |
-| 23 | How to Build an MVP in the AI Coding Era | May 18, 2026 |
-| 24 | A Founders Guide To Selling Your Company | May 7, 2026 |
-| 25 | How To Get Unique AI Startup Ideas | Mar 16, 2026 |
-| 26 | How Great Founders Approach Sales | Feb 2, 2026 |
-| 27 | Dalton + Michael Return To YouTube | Sep 2, 2025 |
+| 23 | How Startup Founders Actually Get Rich (Quick?) | Jun 15, 2026 |
+| 24 | How To Build A Successful Career In Tech: Where To Join, When To Leave | Jun 29, 2026 |
+| 25 | Cofounder Relationships | Jul 13, 2026 |
+| 26 | Problems Money Can't Solve | Jul 22, 2026 |
+| 27 | Why Doomers Are Wrong About AI | Jul 29, 2026 |
+| 28 | The Secret Killer of Startups | Aug 5, 2026 |
+| 29 | How to Spot a Terrorist in Your Startup | Aug 12, 2026 |
+| 30 | How to Find Consumer Startup Ideas | Aug 18, 2026 |
+| 31 | Startup Problems Growth Doesn't Solve | Aug 24, 2026 |
+| 32 | How To Build A Startup Brand | Aug 31, 2026 |
+| 33 | Should You Keep Working on Your Startup? | Sep 7, 2026 |
+| 34 | Should You Pivot Your Startup? | Sep 14, 2026 |
+
 Note: May have a few earlier episodes not captured from Spotify pagination.
 
 ## C. Dalton Caldwell -- Solo YC Videos
