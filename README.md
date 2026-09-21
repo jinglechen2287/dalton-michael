@@ -22,3 +22,5 @@ ln -s "$PWD/skill" ~/.claude/skills/dalton-michael
 ```bash
 ./transcripts/fetch-new-dpm.sh
 ```
+
+A launchd job (`~/Library/LaunchAgents/com.jingle.dalton-michael-transcripts.plist`) runs this every Monday at 9:00. When new transcripts land, the script commits and pushes them to GitHub, and the skill does a `git pull --ff-only` before each search so it always works from the latest set.

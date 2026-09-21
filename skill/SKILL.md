@@ -27,6 +27,16 @@ Their shared principles:
 
 ## Answering a question
 
+### Step 0: Sync the transcripts
+
+The transcripts live in a git repo that a scheduled job updates and pushes to GitHub. Before searching, pull the latest so you have any new videos:
+
+```bash
+git -C /Users/jingle/Projects/dalton-michael pull --ff-only --quiet
+```
+
+If the pull fails (offline, conflict), note it briefly and continue with the local copy — don't block on it.
+
 ### Step 1: Identify the topic
 
 Map the user's question to likely topics. Think about which transcripts might cover this. Common topic clusters:

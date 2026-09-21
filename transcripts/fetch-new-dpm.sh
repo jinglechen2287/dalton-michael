@@ -131,3 +131,15 @@ else
   echo ""
   echo "=== Fetched $NEW new transcript(s) ==="
 fi
+
+# --- Commit and push to GitHub so the remote stays current ---
+
+REPO_DIR="/Users/jingle/Projects/dalton-michael"
+
+if [ -d "$REPO_DIR/.git" ] && [ -n "$(git -C "$REPO_DIR" status --porcelain)" ]; then
+  echo ""
+  echo "=== Committing and pushing to GitHub ==="
+  git -C "$REPO_DIR" add -A
+  git -C "$REPO_DIR" commit -q -m "Update transcripts: $NEW new video(s) ($(date '+%Y-%m-%d'))"
+  git -C "$REPO_DIR" push -q origin HEAD && echo "  -> pushed" || echo "  -> PUSH FAILED (commit is local; will retry next run)"
+fi
