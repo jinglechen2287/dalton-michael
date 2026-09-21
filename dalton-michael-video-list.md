@@ -91,6 +91,7 @@ YouTube: [@daltonplusmichael](https://youtube.com/@daltonplusmichael)
 | 33 | Should You Keep Working on Your Startup? | Sep 7, 2026 |
 | 34 | Should You Pivot Your Startup? | Sep 14, 2026 |
 
+| 35 | When Should Your Startup Go Multi-Product? | Sep 21, 2026 |
 Note: May have a few earlier episodes not captured from Spotify pagination.
 
 ## C. Dalton Caldwell -- Solo YC Videos
