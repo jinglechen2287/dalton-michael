@@ -92,6 +92,7 @@ YouTube: [@daltonplusmichael](https://youtube.com/@daltonplusmichael)
 | 34 | Should You Pivot Your Startup? | Sep 14, 2026 |
 
 | 35 | When Should Your Startup Go Multi-Product? | Sep 21, 2026 |
+| 36 | How to Set Goals Before Product-Market Fit | Sep 28, 2026 |
 Note: May have a few earlier episodes not captured from Spotify pagination.
 
 ## C. Dalton Caldwell -- Solo YC Videos
