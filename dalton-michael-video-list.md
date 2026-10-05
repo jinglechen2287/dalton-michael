@@ -93,6 +93,7 @@ YouTube: [@daltonplusmichael](https://youtube.com/@daltonplusmichael)
 
 | 35 | When Should Your Startup Go Multi-Product? | Sep 21, 2026 |
 | 36 | How to Set Goals Before Product-Market Fit | Sep 28, 2026 |
+| 37 | How Founders Win at Fundraising, Sales, and Hiring | Oct 5, 2026 |
 Note: May have a few earlier episodes not captured from Spotify pagination.
 
 ## C. Dalton Caldwell -- Solo YC Videos
