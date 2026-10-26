@@ -96,6 +96,7 @@ YouTube: [@daltonplusmichael](https://youtube.com/@daltonplusmichael)
 | 37 | How Founders Win at Fundraising, Sales, and Hiring | Oct 5, 2026 |
 | 38 | Want to Build a Great Startup? Start Having Fun. | Oct 12, 2026 |
 | 39 | When to Convince AI Skeptics (or When to Move On) | Oct 19, 2026 |
+| 40 | How to Conquer Bad Days at Your Startup | Oct 26, 2026 |
 Note: May have a few earlier episodes not captured from Spotify pagination.
 
 ## C. Dalton Caldwell -- Solo YC Videos
