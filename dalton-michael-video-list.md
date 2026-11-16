@@ -98,6 +98,7 @@ YouTube: [@daltonplusmichael](https://youtube.com/@daltonplusmichael)
 | 39 | When to Convince AI Skeptics (or When to Move On) | Oct 19, 2026 |
 | 40 | How to Conquer Bad Days at Your Startup | Oct 26, 2026 |
 | 41 | Do Investors Help? | Nov 2, 2026 |
+| 42 | Postmortem on a Dead Startup | Nov 9, 2026 |
 Note: May have a few earlier episodes not captured from Spotify pagination.
 
 ## C. Dalton Caldwell -- Solo YC Videos
